@@ -20,7 +20,7 @@ scoring system described above, and output the sorted list in increasing order o
 difficulty to pronounce. Implement the algorithm Sort below as a function,
 which also requires implementing the function Compare. Please note: you must
 use the sorting/compare algorithm provided; failure to do so will cost you the full
-amount of the credit for implementing the sort (see rubric below).
+amount of the credit for implementing the sort (see rubric below)
 
 ### Algorithm: 
 
